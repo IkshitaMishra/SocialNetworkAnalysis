@@ -1,8 +1,9 @@
 # SocialNetworkAnalysis
 
+•	Built a Mention Graph from users mentioning (@) other user names in their #GamerGate tweets. 
 
-• Built a Mention Graph from users mentioning (@) other user names in their #GamerGate tweets.
+•	Calculated Social Network centrality measures and network statistics along with visualizing node degree distribution. 
 
-• Calculated Social Network centrality measures and network statistics along with visualizing node degree distribution.
+•	Detected community network structure along with visualization using Girvan-Newman algorithm. 
 
-• Detected community network structure along with visualization using Girvan-Newman algorithm.
+• Plotting the network using colors representing different communities, and sizes representing a centrality measure.
